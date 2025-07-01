@@ -1,6 +1,7 @@
 
 # NeighborFit - Find Your Perfect Neighborhood
 Live Link - https://neighborfitt.netlify.app
+
 A full-stack web application that matches users with neighborhoods based on their lifestyle preferences, budget, and priorities using an intelligent matching algorithm.
 
 ## Problem Statement
